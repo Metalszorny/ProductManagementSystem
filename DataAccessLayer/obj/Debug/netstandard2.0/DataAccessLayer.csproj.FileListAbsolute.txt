@@ -1,0 +1,11 @@
+C:\Users\erich\source\repos\ProductManagementSystem\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\erich\source\repos\ProductManagementSystem\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\erich\source\repos\ProductManagementSystem\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\erich\source\repos\ProductManagementSystem\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\erich\source\repos\ProductManagementSystem\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\erich\source\repos\ProductManagementSystem\DataAccessLayer\bin\Debug\netstandard2.0\Common.dll
+C:\Users\erich\source\repos\ProductManagementSystem\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\erich\source\repos\ProductManagementSystem\DataAccessLayer\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\erich\source\repos\ProductManagementSystem\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\erich\source\repos\ProductManagementSystem\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\erich\source\repos\ProductManagementSystem\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

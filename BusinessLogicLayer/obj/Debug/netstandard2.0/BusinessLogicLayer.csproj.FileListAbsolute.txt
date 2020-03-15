@@ -1,0 +1,13 @@
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.deps.json
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.dll
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.pdb
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\bin\Debug\netstandard2.0\Common.dll
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.dll
+C:\Users\erich\source\repos\ProductManagementSystem\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.pdb
